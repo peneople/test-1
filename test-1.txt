@@ -4,9 +4,9 @@
 
 int main()
 {
-
-
-
+int x;
+std::cout<<"Hello smradi"<< std::endl;
+std::cin>> x;
 
 return 0;
 }
