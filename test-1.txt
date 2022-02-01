@@ -9,5 +9,5 @@ std::cout<<"Hello smradi"<< std::endl;
 std::cin>> x;
 int y;
 double z;
-return 0;
+return 1;
 }
